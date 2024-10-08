@@ -1,0 +1,12 @@
+.hero {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: Simplon Norm;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+}
+.hero p {
+  padding-left: 350px;
+  padding-right: 350px;
+}
